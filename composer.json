@@ -19,6 +19,8 @@
             "homepage": "https://github.com/Payum/PaypalExpressCheckoutNvp/contributors"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "payum/core": "dev-1.4.3-BETA1"
     },
